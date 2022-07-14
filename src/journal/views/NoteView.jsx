@@ -42,7 +42,6 @@ export const NoteView = () => {
         />
       </Grid>
 
-      {/* Image gallery */}
       <ImageGallery />
     </Grid>
   );
